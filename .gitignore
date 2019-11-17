@@ -105,3 +105,6 @@ venv.bak/
 
 # note
 note/
+
+# ignored folder
+data/

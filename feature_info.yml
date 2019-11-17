@@ -1,0 +1,2 @@
+basic: [./test.csv]
+second: [./test2.csv, ./test3.csv]

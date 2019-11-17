@@ -1,0 +1,8 @@
+q1: >-
+    SELECT
+        t1.prod_name, 
+        t2.* 
+    FROM gm_item_list as t1 
+        INNER JOIN 
+        gm_item_premium_review as t2 
+        ON t1.prod_id=t2.prod_id
