@@ -32,7 +32,7 @@
         - fill NA
     5. Labelling
         
-#### Machine Learning 실시
+#### Machine Learning 실시 (*WIP*)
     1. Input Data Loading
     2. Train/Test split
     3. ML
