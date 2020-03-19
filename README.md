@@ -16,7 +16,7 @@
     2. Feature group 별 전처리 완료 DataFrame을 merge
     3. 최종 DataFrame을 input으로서 저장
     
-##### 전처리 pipeline에 필요한 기능
+##### 전처리 pipeline에 필요한 기능 (*WIP*)
     1. category, numeric, string column 할당
     2. category 전처리
         - unknown 추가?
